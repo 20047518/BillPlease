@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="tvAmt">Amount</string>
+    <string name="tvNOP">Num of Pax</string>
+    <string name="tvDst">Discount (%)</string>
+    <string name="rbCash">Cash</string>
+    <string name="rbPN">PayNow</string>
+    <string name="btnSplit">SPLIT</string>
+    <string name="btnReset">RESET</string>
+    <string name="tvResult1">Bill Please</string>
+    <string name="tvResult2">Bill Please</string>
+
+</resources>
